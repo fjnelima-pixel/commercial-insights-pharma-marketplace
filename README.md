@@ -13,7 +13,7 @@ performance using synthetic pharmaceutical transaction data.
 ## Tools
 - Python (pandas, numpy)
 - SQLite (SQL-style analysis)
-- Google Colab
+- Google Colab :https://colab.research.google.com/drive/1RbNa-l4SvJl-xJt_ZY2cdE2s-8HA872F?authuser=0#scrollTo=oQKvt9_yDrsd
 - GitHub
 
 ## Key Insights
