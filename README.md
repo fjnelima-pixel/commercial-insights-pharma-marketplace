@@ -25,5 +25,4 @@ performance using synthetic pharmaceutical transaction data.
 Designed to demonstrate decision-ready insights aligned with commercial strategy
 and access-to-medicine objectives.
 
-# By Faith N. Weyombo
-# Financial and Data Analyst
+By Faith N. Weyombo -Financial and Data Analyst
